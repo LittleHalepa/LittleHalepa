@@ -1,0 +1,17 @@
+{
+  "name": "node_study",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "build": "npx webpack --mode production", 
+    "start": "npx webpack --mode development"
+  },
+  "keywords": [],
+  "author": "Little Miracle",
+  "license": "ISC",
+  "description": "Study",
+  "devDependencies": {
+    "webpack": "^5.97.1",
+    "webpack-cli": "^5.1.4"
+  }
+}
